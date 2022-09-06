@@ -1,0 +1,6 @@
+[build]
+publish = "dist/client"
+command = "yarn build"
+
+[dev]
+framework = "#static"
